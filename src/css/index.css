@@ -1,0 +1,11 @@
+@import "normalize.css";
+@import "reset.css";
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1114px;
+  margin: 0 auto;
+  font-family: "Arial";
+}/*# sourceMappingURL=index.css.map */

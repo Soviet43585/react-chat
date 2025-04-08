@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../react-chat/src/components/loading-window/loading-window.sass","loading-window.css"],"names":[],"mappings":"AAAA;EACI,kBAAA;EACA,MAAA;EACA,OAAA;EACA,aAAA;EACA,YAAA;EACA,YAAA;EACA,gBAAA;EACA,gBAAA;EACA,kBAAA;ACCJ;ADAI;EACI,cAAA;EACA,YAAA;EACA,aAAA;EACA,6EAAA;ACER;ADDI;EACI,kBAAA;ACGR","file":"loading-window.css"}
